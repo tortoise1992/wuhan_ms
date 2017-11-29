@@ -69,3 +69,191 @@
 }
 
 
+.dc-box .floor{
+    margin-bottom: 35px;
+    display: flex;
+    height: 550px;
+    justify-content: space-between;
+}
+
+.dc-box .floor .item1{
+    width: 526px;
+    height: 550px;
+    background: url("../img/dc_03.jpg") no-repeat;
+    -webkit-background-size:100% 100%;
+    background-size:100% 100%;
+}
+.dc-box .floor .item2{
+    width: 214px;
+    height: 550px;
+    background: url("../img/dc_06.jpg") no-repeat;
+    -webkit-background-size:100% 100%;
+    background-size:100% 100%;
+}
+.dc-box .floor .item3{
+    width: 530px;
+    height: 550px;
+}
+.dc-box .floor .item4{
+    width: 300px;
+    height: 550px;
+    background: url("../img/dc_12.jpg") no-repeat;
+    -webkit-background-size:100% 100%;
+    background-size:100% 100%;
+}
+.dc-box .floor .item3 .top,.dc-box .floor .item3 .bottom{
+    height: 270px;
+    display: flex;
+    justify-content: space-between;
+}
+.dc-box .floor .item3 .top{
+    margin-bottom: 10px;
+}
+
+.dc-box .floor .item3 .l1{
+    width: 150px;
+    height: 100%;
+    background: url("../img/dc_08.jpg") no-repeat;
+    -webkit-background-size:100% 100%;
+    background-size:100% 100%;
+}
+.dc-box .floor .item3 .l2{
+    width: 370px;
+    height: 100%;
+    background: url("../img/dc_10.jpg") no-repeat;
+    -webkit-background-size:100% 100%;
+    background-size:100% 100%;
+}
+.dc-box .floor .item3 .l3{
+    width: 100%;
+    height: 100%;
+    background: url("../img/dc_16.jpg") no-repeat;
+    -webkit-background-size:100% 100%;
+    background-size:100% 100%;
+}
+
+.dc-box .floor .item6{
+    width: 300px;
+    height: 550px;
+    background: url("../img/dc_24.jpg") no-repeat;
+    -webkit-background-size:100% 100%;
+    background-size:100% 100%;
+}
+.dc-box .floor .item5 .top,.dc-box .floor .item5 .bottom{
+    width: 1288px;
+    height: 270px;
+    display: flex;
+    justify-content: space-between;
+}
+.dc-box .floor .item5 .top{
+    margin-bottom: 10px;
+}
+.dc-box .floor .item5 .l4{
+    width: 850px;
+    height: 100%;
+    background: url("../img/dc_21.jpg") no-repeat;
+    -webkit-background-size:100% 100%;
+    background-size:100% 100%;
+}
+.dc-box .floor .item5 .l5{
+    width: 430px;
+    height: 100%;
+    background: url("../img/dc_23.jpg") no-repeat;
+    -webkit-background-size:100% 100%;
+    background-size:100% 100%;
+}
+.dc-box .floor .item5 .l6{
+    width: 526px;
+    height: 100%;
+    background: url("../img/dc_28.jpg") no-repeat;
+    -webkit-background-size:100% 100%;
+    background-size:100% 100%;
+}
+.dc-box .floor .item5 .l7{
+    width: 150px;
+    height: 100%;
+    background: url("../img/dc_30.jpg") no-repeat;
+    -webkit-background-size:100% 100%;
+    background-size:100% 100%;
+}
+.dc-box .floor .item5 .l8{
+    width: 590px;
+    height: 100%;
+    background: url("../img/dc_32.jpg") no-repeat;
+    -webkit-background-size:100% 100%;
+    background-size:100% 100%;
+}
+.dc-box .floor .item7{
+    width: 300px;
+    height: 100%;
+    background: url("../img/dc_39.jpg") no-repeat;
+    -webkit-background-size:100% 100%;
+    background-size:100% 100%;
+}
+.dc-box .floor .item8{
+    width: 500px;
+    height: 100%;
+    background: url("../img/dc_42.jpg") no-repeat;
+    -webkit-background-size:100% 100%;
+    background-size:100% 100%;
+}
+.dc-box .floor .item9{
+    width: 546px;
+    height: 100%;
+
+}
+.dc-box .floor .item9 .top,.dc-box .floor .item9 .bottom{
+    width: 100%;
+    height: 270px;
+    display: flex;
+    justify-content: space-between;
+}
+.dc-box .floor .item9 .top{
+    margin-bottom: 10px;
+}
+.dc-box .floor .item10{
+    width: 230px;
+    height: 100%;
+    background: url("../img/dc_48.jpg") no-repeat;
+    -webkit-background-size:100% 100%;
+    background-size:100% 100%;
+}
+.dc-box .floor .item9 .l11{
+    width: 100%;
+    height: 100%;
+    background: url("../img/dc_53.jpg") no-repeat;
+    -webkit-background-size:100% 100%;
+    background-size:100% 100%;
+}
+.dc-box .floor .item9 .l9{
+    width: 390px;
+    height: 100%;
+    background: url("../img/dc_44.jpg") no-repeat;
+    -webkit-background-size:100% 100%;
+    background-size:100% 100%;
+}
+.dc-box .floor .item9 .l10{
+    width: 150px;
+    height: 100%;
+    background: url("../img/dc_46.jpg") no-repeat;
+    -webkit-background-size:100% 100%;
+    background-size:100% 100%;
+}
+
+.footer{
+    width: 1400px;
+    margin: 0 auto;
+}
+
+.friend-link{
+    padding: 20px 40px;
+    border-bottom: 1px solid #d3d3d3;
+}
+
+.friend-link .tag{
+    width: 220px;
+}
+.friend-link .hrefs a{
+    margin-right: 80px;
+    text-decoration: underline;
+}
