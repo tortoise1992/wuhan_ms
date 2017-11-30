@@ -257,3 +257,61 @@
     margin-right: 80px;
     text-decoration: underline;
 }
+
+.footer .info{
+    padding: 60px 0;
+}
+.footer .info .nav a{
+    color: #000;
+    margin: 0 30px;
+}
+
+.dc-header{
+    width: 100%;
+    height: 518px;
+    background: url("../img/dc-banner_02.jpg") no-repeat;
+    -webkit-background-size:100% 100%;
+    background-size:100% 100%;
+    margin-bottom: 50px;
+}
+
+
+.hover-item{
+    position: relative;
+    cursor: pointer;
+}
+.hover-item .hover-item-bg{
+    position: absolute;
+    left: 0;
+    top:0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,.7);
+    z-index: 2;
+    display: none;
+}
+.hover-item .hover-item-text{
+    position: absolute;
+    width: 90px;
+    height: 200px;
+    left: 50%;
+    top:50%;
+    margin: -100px 0 0 -45px;
+    z-index: 3;
+    color: #fff;
+    writing-mode: vertical-lr;
+    font-size: 30px;
+    text-align: right;
+    display: none;
+}
+.hover-item .hover-item-text span{
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.hover-item:hover .hover-item-bg{
+    display: block;
+}
+.hover-item:hover .hover-item-text{
+    display: block;
+}
